@@ -12,17 +12,26 @@
     font-weight: normal;
 }
 
+#my-footer-id{
+    font-size: 12px;
+    color: red;
+    font-weight: lighter;
+}
+
 header{
     background-color: whitesmoke;
     text-align: center;
+    padding: 20px;
 }
 
 main{
     background-color: red;
     text-align: left;
+    padding: 40px;
 }
 
 footer{
     background-color: whitesmoke;
     text-align: center;
+    padding: 10px;
 }
