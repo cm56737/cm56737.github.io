@@ -11,3 +11,18 @@
     color: blue;
     font-weight: normal;
 }
+
+header{
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+main{
+    background-color: red;
+    text-align: left;
+}
+
+footer{
+    background-color: whitesmoke;
+    text-align: center;
+}
