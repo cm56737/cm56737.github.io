@@ -1,0 +1,13 @@
+.my-title {
+    font-size: 24px;
+    color: black;
+    font-weight: bold;
+
+}
+
+/*Define styles for body text*/
+.my-body-text {
+    font-size: 16px;
+    color: blue;
+    font-weight: normal;
+}
