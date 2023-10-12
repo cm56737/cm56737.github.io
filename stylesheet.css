@@ -36,6 +36,7 @@
 
 .main{
     background-color: red;
+    border-color: black;
     text-align: left;
     padding: 40px;
 }
