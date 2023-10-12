@@ -37,7 +37,7 @@
 .main{
     background-color: red;
     border-color: black;
-    border-width: 2;
+    border-width: 2px;
     border-style: solid;
     text-align: left;
     padding: 40px;
