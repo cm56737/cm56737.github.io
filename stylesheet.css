@@ -24,19 +24,19 @@
     font-weight: lighter;
 }
 
-header{
+.header{
     background-color: whitesmoke;
     text-align: center;
     padding: 20px;
 }
 
-main{
+.main{
     background-color: red;
     text-align: left;
     padding: 40px;
 }
 
-footer{
+.footer{
     background-color: whitesmoke;
     text-align: center;
     padding: 10px;
