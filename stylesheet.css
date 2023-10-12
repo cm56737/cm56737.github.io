@@ -18,13 +18,13 @@
     font-weight: lighter;
 }
 
-.my-link-text{
+#my-link-text{
     font-size: 12px;
     color: blue;
     font-weight: lighter;
 }
 
-.my-link-text:hover{
+#my-link-text:hover{
     color: white
 }
 
